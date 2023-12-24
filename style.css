@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: 'ocean';
+    src: url(fonts/oceanwide-semibold.otf);
+}
+
+@font-face {
+    font-family: 'bill';
+    src: url(fonts/billcorporatemedium-book.ttf);
+}
+
+body{
+    background-color: #0D1A2D;
+}
+
+.move{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.back{
+    padding: 30px;
+    background-color: #14273E;
+    width: 300px;
+    border-radius: 25px;
+}
+
+.imgu{
+    border-radius: 25px;
+    width: 100%;
+}
+
+h1{
+    font-family: 'ocean';
+    color: white;
+    padding: 15px 0px 10px 0px;
+    font-size: 25px;
+}
+
+p{
+    padding: 15px 0px 15px 0px;
+}
+
+
+.pu{
+    font-family: 'bill';
+    color: #495E7B;
+    font-size: 18px;
+}
+
+
+.eth{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.eth1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#31AAB4;
+}
+
+i{
+    padding: 0px 10px 0px 0px;
+}
+
+.horas{
+    font-family: 'bill';
+    color: #495E7B;
+}
+
+.avatar{
+    display: flex;
+    align-items: center;
+}
+
+.creation{ 
+    font-family: 'bill';
+    color: #495E7B;
+}
+
+spam{
+    color: white;
+}
+
+.imgd{
+    width: 35px;
+    height: 35px;
+    padding: 0px 10px 0px 0px;
+}
