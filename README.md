@@ -22,7 +22,7 @@ Concluido ✔️
 
 
 # &#X263A; Link
-Você pode acessar o Projeto pronto por esse link: https://kaiketorres.github.io/Projeto-Nft-card
+Você pode acessar o Projeto pronto por esse link: https://kaiketorres.github.io/Projeto-nft-card
 
 Você pode acessar o Desafio pelo site: https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS
 
