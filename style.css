@@ -39,8 +39,8 @@ body{
 h1{
     font-family: 'ocean';
     color: white;
-    padding: 15px 0px 10px 0px;
-    font-size: 25px;
+    padding: 20px 0px 1px 0px;
+    font-size: 22px;
 }
 
 p{
@@ -50,7 +50,7 @@ p{
 
 .pu{
     font-family: 'bill';
-    color: #495E7B;
+    color: #a4c0e7;
     font-size: 18px;
 }
 
@@ -72,7 +72,7 @@ i{
 
 .horas{
     font-family: 'bill';
-    color: #495E7B;
+    color: #a4c0e7;
 }
 
 .avatar{
@@ -82,7 +82,7 @@ i{
 
 .creation{ 
     font-family: 'bill';
-    color: #495E7B;
+    color: #a4c0e7;
 }
 
 spam{
